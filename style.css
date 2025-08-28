@@ -429,7 +429,6 @@ html {
   .profile_details {
     /* gap: 0rem; */
     margin-top: -300px;
-    /* margin-bottom: -200px; */
   }
 
   .profile_details h1 {
@@ -443,6 +442,11 @@ html {
   .button a {
     padding: 0.4rem;
     font-size: 0.5rem;
+  }
+
+  .about {
+    width: 90%;
+    margin-top: -200px;
   }
 
   .cards_container .card h4 {
