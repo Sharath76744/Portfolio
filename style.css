@@ -63,6 +63,7 @@ html {
 .landPage {
   height: 100vh;
   display: flex;
+  flex-direction: row-reverse;
   justify-content: space-around;
   align-items: center;
   /* gap: 30rem; */
@@ -365,8 +366,8 @@ html {
 
 @media (max-width: 625px) {
   .landPage {
-    flex-direction: column-reverse;
-    gap: 2rem;
+    flex-direction: column;
+    gap: 0rem;
     align-items: center;
     text-align: center;
     /* margin-top: 2rem; */
@@ -427,8 +428,8 @@ html {
 
   .profile_details {
     /* gap: 0rem; */
-    margin-top: -500px;
-    margin-bottom: -200px;
+    margin-top: -300px;
+    /* margin-bottom: -200px; */
   }
 
   .profile_details h1 {
