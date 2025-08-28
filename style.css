@@ -427,7 +427,8 @@ html {
 
   .profile_details {
     /* gap: 0rem; */
-    margin-top: -300px;
+    margin-top: -400px;
+    margin-bottom: -200px;
   }
 
   .profile_details h1 {
