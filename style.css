@@ -433,8 +433,8 @@ html {
     display: none;
   }
 
-  .about {
-    margin-top: 12rem;
+  .about-sec {
+    /* margin-top: rem; */
   }
 }
 
@@ -445,7 +445,8 @@ html {
   }
 
   .profile_details {
-    gap: 1rem;
+    /* gap: 0rem; */
+    margin-top: -100px;
   }
 
   .profile_details h1 {
