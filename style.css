@@ -445,13 +445,14 @@ html {
   }
 
   .about {
-    /* width: 90%; */
+    margin-left: 1rem;
+    width: 90%;
     margin-top: -80px;
   }
 
-  .about-sec {
-    width: 95%;
-  }
+  /* .about-sec {
+    width: 800rem;
+  } */
 
   .cards_container .card h4 {
     font-size: 0.8rem;
