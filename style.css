@@ -432,10 +432,6 @@ html {
   .navbar {
     display: none;
   }
-
-  .about-sec {
-    /* margin-top: rem; */
-  }
 }
 
 @media (max-width: 425px) {
