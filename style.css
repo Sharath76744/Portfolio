@@ -445,8 +445,8 @@ html {
   }
 
   .about {
-    width: 90%;
-    margin-top: -200px;
+    /* width: 90%; */
+    margin-top: -100px;
   }
 
   .cards_container .card h4 {
