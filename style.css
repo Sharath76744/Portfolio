@@ -154,7 +154,7 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 5rem 0;
+  margin: 3rem;
 }
 
 .about-sec {
@@ -427,7 +427,7 @@ html {
 
   .profile_details {
     /* gap: 0rem; */
-    margin-top: -400px;
+    margin-top: -500px;
     margin-bottom: -200px;
   }
 
