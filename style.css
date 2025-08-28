@@ -55,21 +55,6 @@ html {
   color: #0096c7;
 }
 
-.hamburger {
-  display: none;
-  flex-direction: column;
-  cursor: pointer;
-  gap: 5px;
-}
-
-.hamburger span {
-  width: 25px;
-  height: 3px;
-  background: #023e8a;
-  border-radius: 3px;
-  transition: all 0.3s ease;
-}
-
 .web_container {
   height: 100%;
   background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
@@ -442,7 +427,7 @@ html {
 
   .profile_details {
     /* gap: 0rem; */
-    margin-top: -100px;
+    margin: -300px;
   }
 
   .profile_details h1 {
